@@ -1,0 +1,9 @@
+C:\Users\lab2\Desktop\Workspace\myFirstCRUD\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\lab2\Desktop\Workspace\myFirstCRUD\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\lab2\Desktop\Workspace\myFirstCRUD\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\lab2\Desktop\Workspace\myFirstCRUD\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\lab2\Desktop\Workspace\myFirstCRUD\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\lab2\Desktop\Workspace\myFirstCRUD\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+C:\Users\lab2\Desktop\Workspace\myFirstCRUD\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\lab2\Desktop\Workspace\myFirstCRUD\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\lab2\Desktop\Workspace\myFirstCRUD\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
